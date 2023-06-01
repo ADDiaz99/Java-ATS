@@ -3,7 +3,7 @@ package introduccion;
 public class IsPrime {
 	public static void main(String[] argv){
 		
-		for (int i = 1001; i < 1050; i++) {
+		for (int i = 450; i < 600; i++) {
 			
 			//Iterate through each value to check if its prime
 			boolean itsPrime = true;
